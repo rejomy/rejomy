@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-6lksjh0ej-regomys-projects.vercel.app/api?include_all_commits=true&hide_title=true&hide_border=true&theme=dracula&username=rejomy&show_icons=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-six-sage.vercel.app/api?include_all_commits=true&hide_title=true&hide_border=true&theme=dracula&username=rejomy&show_icons=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats-two-ashy.vercel.app?user=rejomy&theme=dracula&hide_border=true&border_radius=5&mode=weekly" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats-6lksjh0ej-regomys-projects.vercel.app/api/top-langs/?username=rejomy&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_title=true&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-six-sage.vercel.app/api/top-langs/?username=rejomy&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_title=true&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
